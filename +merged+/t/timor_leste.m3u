@@ -17,3 +17,9 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://sonicpanel.oficialserver.com:7186/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81115/logo_5qkL9SQjSD.png",Tzgospel (East Timor) Radio
 https://stream.zeno.fm/ttpgp5da7ehvv
+#EXTINF:-1,Rádio Liberdade 95.8 FM - Timor-Leste - Díli
+https://streaming.kalohan.net/proxy/raliber?mp=/stream
+#EXTINF:-1,Radio Mauloko FM 89.7 - Timor-Leste - Maubisse
+https://streaming.kalohan.net/proxy/mauloko?mp=/stream
+#EXTINF:-1,Rádio Rakambia FM 99.5 - Timor-Leste - Díli
+https://streaming.kalohan.net/proxy/rakambia?mp=/stream

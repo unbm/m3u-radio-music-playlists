@@ -427,3 +427,61 @@ https://fmradiohub.in/radio?url=http://88.119.151.74:8001/xfm
 https://fmradiohub.in/radio?url=http://82.135.234.195:8000/fm99.mp3
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31859.png",radio.audiomastering.lt
 https://fmradiohub.in/radio?url=http://radio.audiomastering.lt:8000/hq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lrt-radijas-571624-logo.jpg",Radio LRT RADIJAS
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/european-hit-radio-577935-logo.jpg",European Hit Radio
+http://82.135.234.195:8000/ehr.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-rock-fm-logo.jpg",Radio Rock FM
+http://stream1.rockfm.lt/crf128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-beveik-radijas-logo.jpg",Radio Beveik Radijas
+https://azura.shoutca.st/listen/beveikradijas/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-lrt-klasika-logo.jpg",Radio LRT Klasika
+https://radijas.lrt.lt/radijas/lrt_klasika/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/baltupiu-radijas-166015-logo.jpg",Radio Baltupiu Radijas
+http://fm.baltupiumokykla.lt:8888/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-rs2-radio-logo.jpg",RS2 Radio
+https://stream.radios.rs:9010/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hot-fm-582901-logo.jpg",Radio Hot FM
+https://c14.radioboss.fm:8335/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-fm-619426-logo.jpg",Radio Easy FM
+https://netradio.ziniur.lt/easyfm.mp3?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-fred-film-radio-logo.jpg",FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiolt/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-life-chill-music-logo.jpg",Radio Life Chill Music
+https://aska.ru-hoster.com:8053/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-topradio-lithuania-logo.jpg",Topradio Lithuania
+http://185.80.130.207:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-vizija-logo.jpg",Radio Vizija
+https://stream.zeno.fm/h9unubeaqtzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-100-hitu-logo.jpg",Radio 100 HITŲ
+https://listen.radioking.com/radio/483860/stream/540443
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-relax-fm-sentimentai-logo.jpg",Radio RELAX FM Sentimentai
+https://listen.radioking.com/radio/506872/stream/564490
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pulsas-163026-logo.jpg",Radio Pulsas
+https://audio-edge-5bkfj.fra.h.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-cool-radio-logo.jpg",Cool Radio
+https://stream.zeno.fm/zi4k6fxtgnivv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-kabradio-logo.jpg",KABRADIO
+https://stream.zeno.fm/29xtapvkzhhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-favor-radio-lithuania-logo.jpg",Favor Radio (Lithuania)
+https://a10.asurahosting.com:7660/lithuania.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kapsai-639236-logo.jpg",Radio Kapsai
+http://91.211.246.42:8000/Kapsai-HD
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-mazeikiai-fm-logo.jpg",Radio Mažeikiai Fm
+http://91.211.246.42:8000/Mazeikiai
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-tg-fm-radijas-logo.jpg",Radio TG FM Radijas
+http://radijas.tgfm.lt:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-criminal-tribe-logo.jpg",Radio Criminal Tribe
+https://live.leproradio.com/criminal.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-haze-pub-radio-logo.jpg",Haze Pub Radio
+https://live.leproradio.com/regress.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-draugystes-radijas-logo.jpg",Radio Draugystės radijas
+http://213.226.189.174:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-fm-568465-logo.jpg",Radio Super FM
+http://82.140.131.217:8000/superfm.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-hot-hits-radio-logo.jpg",Hot Hits Radio
+https://stream.zeno.fm/i6rawfdpnimtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-druzilt-logo.jpg",Radio drUzi.lt
+https://radiodruzi.online:8443/48aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-lituanicafm-logo.jpg",Radio Lituanica.fm
+https://cast1.shoutcasting.uk/listen/lituanica.fm/radio.mp3

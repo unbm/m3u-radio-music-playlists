@@ -149,3 +149,9 @@ http://stream.srg-ssr.ch/m/retetre/mp3_128
 http://185.33.21.112/hits2000_128
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,EBIS Radio 1 - FM 88.5 - Swaziland - Mbabane
+http://ebisradio.zapto.org:8000/stream
+#EXTINF:-1,EBIS Radio 2 - FM 91.6 - Swaziland - Mbabane
+http://ebisradio.zapto.org:8002/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-usnice-621645-logo.jpg",Radio Usnice
+http://138.201.21.17:9998/;

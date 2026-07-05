@@ -605,3 +605,141 @@ https://tinyurl.com/AntennaWebGhainSielem
 http://philae.shoutca.st:8402/stream?type=http&nocache=165
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Bay 89.7 FM - Malta - Saint Julian's
+https://stream.v3.network/proxy/897bay/stream.mp3
+#EXTINF:-1,Bay Easy - Malta - Saint Julian's
+https://stream.v3.network/proxy/easy/stream.mp3
+#EXTINF:-1,Bay Pride - Malta - Saint Julian's
+https://stream.v3.network/proxy/baypride/stream.mp3
+#EXTINF:-1,Bay Retro - Malta - Saint Julian's
+https://stream.v3.network/proxy/retro/stream.mp3
+#EXTINF:-1,BKR 94.5 FM - Malta - Birkirkara
+https://s3.voscast.com:10893/stream
+#EXTINF:-1,Calypso Radio FM 101.8 - Malta - Luqa
+https://s4.radio.co/sf3aa4c25a/listen
+#EXTINF:-1,Campus FM 103.7 - Malta - Msida
+https://campusfm.radioca.st/campusfm_live
+#EXTINF:-1,Lehen il-Belt Giorgiana - Malta - Qormi
+https://s37.myradiostream.com/:9088/listen.mp3/;
+#EXTINF:-1,Magic Malta FM 91.7 - Malta - Pieta
+https://s46.myradiostream.com/:6076/listen.mp3/;
+#EXTINF:-1,Malta's Smooth - Malta - Ħal Għargħur
+https://s3.voscast.com:9259/default
+#EXTINF:-1,NET FM 101.0 - Malta - Pieta
+https://s2.voscast.com:11393/default
+#EXTINF:-1,One Radio 92.7 FM - Malta - Marsa
+https://s10.voscast.com:8203/stream
+#EXTINF:-1,Radio Bambina 98.3FM - Malta - Xaghra
+https://az.wannastream.com/radio/8050/radjubambina
+#EXTINF:-1,Radju Leħen il-Belt Victoria - Malta - Victoria
+https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria
+#EXTINF:-1,Radju Malta - Malta - Pieta
+https://s38.myradiostream.com:6982/;
+#EXTINF:-1,Radju Malta 2 - Malta - Pieta
+https://s11.myradiostream.com/:4954/;
+#EXTINF:-1,Radju Marija 102.3 FM - Malta - Rabat
+https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream
+#EXTINF:-1,RTK103 - Malta - Hamrun
+https://s2.radio.co/s955b1ced9/listen
+#EXTINF:-1,Smash Radio FM 104.6 - Malta - Paola
+https://radio.smashmalta.com/stream
+#EXTINF:-1,Vibe FM 88.7 - Malta - San Gwann
+https://s9.voscast.com:7825/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radju-malta-logo.jpg",Radio Radju Malta
+https://s38.myradiostream.com:6982/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-magic-malta-radio-logo.jpg",Magic Malta Radio
+https://tvmi.mt/live/5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-kiss-fm-logo.jpg",Radio Kiss FM
+http://s10.voscast.com:8344/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-logo.jpg",Radio 105
+https://radio105-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radju-marija-malta-logo.jpg",Radio Radju Marija Malta
+http://dreamsiteradiocp.com:8102/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-all-rock-radio-logo.jpg",All Rock Radio
+http://s6.reliastream.com:8296/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-xfm-1002-logo.jpg",Radio XFM 100.2
+http://162.252.85.85:7866/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/smash-radio-malta-569454-logo.jpg",Smash Radio Malta
+http://www.ustream.tv/channel/smashradiomalta/pop-out
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radju-marija-569455-logo.jpg",Radio Radju Marija
+http://dreamsiteradiocp2.com:8096/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/galaxy-105-569464-logo.jpg",Radio Galaxy 105
+http://ca7.rcast.net:8056/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/one-radio-569447-logo.jpg",ONE Radio
+http://s10.voscast.com:8202/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bkr-radio-569452-logo.jpg",BKR Radio
+https://s2.radio.co/s0d67a8f1e/listen
+#EXTINF:-1 tv-logo="",dradio2017
+http://s2.voscast.com:10142/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bay-retro-585895-logo.jpg",Radio Bay Retro
+http://178.32.161.194:8014/stream
+#EXTINF:-1 tv-logo="",Radio TVM
+http://tvm.23video.com/v.ihtml/player.html?live%5fid=8733521u0026source=embedu0026autoPlay=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xfm-1002-malta-577939-logo.jpg",Radio XFM 100.2 Malta
+http://s10.voscast.com:7866/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trinitarji-fm-586919-logo.jpg",Radio Trinitarji Fm
+http://195.158.107.58:88/broadwave.mp3?src=1u0026rate=1u0026ref=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/all-rock-radio-590044-logo.jpg",All Rock Radio
+http://209.95.50.189:8296/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-malta-592499-logo.jpg",Radio Magic Malta
+http://s46.myradiostream.com:6076/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-valette-595373-logo.jpg",Radio La Valette
+http://paulspiteri2010.dyndns.tv:88/broadwave.m3u?src=1u0026rate =1u0026src=1u0026rate+=1
+#EXTINF:-1 tv-logo="",Radio TVM 2
+http://tvm.23video.com/v.ihtml/player.html?live%5fid=8733527u0026source=embedu0026autoPlay=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radju-malta-2-603270-logo.jpg",Radio Radju Malta 2
+http://s11.myradiostream.com/4954/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-italia-best-music-628164-logo.jpg",Radio Italia best music
+http://37.187.93.104:8812/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-albatro-web-628994-logo.jpg",Radio Albatro Web
+http://37.187.93.104:8307/albatro
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roma-sud-636827-logo.jpg",Radio Roma Sud
+http://agnes.torontocast.com:8175/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-stop-music-636961-logo.jpg",Radio No Stop Music
+http://37.187.93.104:8234/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spark-malta-647584-logo.jpg",Radio SPARK Malta
+https://sparkradiomt.radioca.st/streams/320kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-no-stop-music-station-logo.jpg",Radio NO STOP MUSIC STATION
+http://37.187.93.104:8234/;?1489772368430
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-toxic8-radio-logo.jpg",Toxic8 Radio
+http://5.9.17.142:8042/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-energy-radio-logo.jpg",Energy radio
+http://37.187.93.104:8812/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-christmas-logo.jpg",Radio 105 Christmas
+https://xmas-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radju-malta-2-logo.jpg",Radio Radju Malta 2
+http://s11.myradiostream.com:4954/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-malta-sunshine-radio-logo.jpg",Malta Sunshine Radio
+http://uk23freenew.listen2myradio.com:32639/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-cuore-logo.jpg",Radio 105 Cuore
+https://cuore-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-bay-xmas-logo.jpg",Radio Bay Xmas
+https://stream.v3.network:18098/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-smash-radio-1046fm-logo.jpg",Smash Radio 104.6FM
+http://freeuk24.listen2myradio.com:3691/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radju-xeb-er-ras-logo.jpg",Radio Radju Xeb-er-ras
+http://freeuk28.listen2myradio.com:20034/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-rock-logo.jpg",Radio 105 Rock
+https://rock-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-sixties-logo.jpg",Radio 105 Sixties
+https://sixties-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-urban-logo.jpg",Radio 105 Urban
+https://urban-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-reggae-logo.jpg",Radio 105 Reggae
+https://reggae-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-fantasy-radio-malta-logo.jpg",Fantasy Radio Malta
+http://uk5freenew.listen2myradio.com:29857/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-retro-logo.jpg",Radio 105 Retro
+https://retro-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-country-logo.jpg",Radio 105 Country
+https://country-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-nineties-logo.jpg",Radio 105 Nineties
+https://nineties-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-radio-105-mellow-logo.jpg",Radio 105 Mellow
+https://mellow-radio105network.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radju-lehen-il-qala-569450-logo.jpg",Radio Radju Lehen il-Qala
+http://stream.radjulehenil-qala.com:8000/radjulehenil-qala
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calypso-radio-1018fm-577938-logo.jpg",Calypso Radio 101.8FM
+http://s9.voscast.com:8128/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vibe-fm-584270-logo.jpg",Radio Vibe FM
+http://s9.voscast.com:7824/;

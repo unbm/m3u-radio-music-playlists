@@ -1139,3 +1139,39 @@ https://radio.mp3islam.com/listen/maher/radio.mp3
 https://qurango.net/radio/tafseer
 #EXTINF:-1,Quran Radio راديو القرآن - Muhammad Al-Minshawi محمد صديق المنشاوي 
 https://radio.mp3islam.com/listen/minshawi/radio.mp3
+#EXTINF:-1,Alnahj - Kuwait - Kuwait City
+https://node33.obviousapproach.com:9000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kw-quran-radio-quran-in-yoruba-logo.jpg",Qur'an Radio - Quran in Yoruba
+https://server03.quran.com.kw:7018/;*.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/u-fm-589945-logo.jpg",Radio U FM
+http://192.99.0.170:15610/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kuwaitnews-fm-598008-logo.jpg",Radio KuwaitNews FM
+http://streaming.radio.co:80/sb65fbc345/low
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kuwait-quran-568010-logo.jpg",Radio Kuwait Quran
+http://www.media.gov.kw/Portal/default_en.asp?id=10
+#EXTINF:-1 tv-logo="",Radio R Kuwait Kuwait FM
+http://www.media.gov.kw/tvradio/Portal/kuwaitfm.htm
+#EXTINF:-1 tv-logo="",Radio KTV Sport Plus
+http://www.media.gov.kw/tvradio/Portal/KTVSportPlus.htm
+#EXTINF:-1 tv-logo="",Radio R Kuwait Shaabya
+http://www.media.gov.kw/tvradio/Portal/Shaabya.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/roquia-from-the-koran-633281-logo.jpg",Radio Roquia from the Koran
+http://quraan.us:9798/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bestontop-radio-634642-logo.jpg",BestOnTop Radio
+http://78.129.159.25:8175/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stans-jukebox-639080-logo.jpg",Radio STANS JUKEBOX
+http://radio5.citrus3.com:8224/;stream.mp3
+#EXTINF:-1 tv-logo="",Radio KTV Sport
+http://www.media.gov.kw/tvradio/Portal/KTVSport.htm
+#EXTINF:-1 tv-logo="",Radio KTV Plus
+http://www.media.gov.kw/tvradio/Portal/KTVPlus.htm
+#EXTINF:-1 tv-logo="",Radio KTV Sport Extra
+http://www.media.gov.kw/tvradio/Portal/KTVSportExtra.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/quran-live-radio-646835-logo.jpg",QURAN LIVE RADIO
+http://s2.voscast.com:12312/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oyamal-radio-175920-logo.jpg",Oyamal Radio
+http://78.129.159.205:8088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eshta7-161570-logo.jpg",Radio Eshta7
+http://96.44.147.34:7942/stream/1/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/muslim-starz-169866-logo.jpg",Radio Muslim Starz
+http://lush.wavestreamer.com:7979/;

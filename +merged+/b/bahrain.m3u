@@ -207,3 +207,35 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 https://stream.aiir.com/dbv0rxpwp6ytv
 #EXTINF:-1,ccc 
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,BFBS Brunei - Bahrain - Manama
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3?platform=radiogarden
+#EXTINF:-1,Live FM 107.2 - Bahrain - Isa Town
+https://stream.aiir.com/dbv0rxpwp6ytv
+#EXTINF:-1,Radio Bahrain 96.5 FM - Bahrain - Manama
+https://stream.aiir.com/uejfkn0dchcuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/thejus-radio-599510-logo.jpg",Thejus Radio
+http://streams3.museter.com:8322/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/auromira-radio-633615-logo.jpg",AUROMIRA RADIO
+http://dallas.myautodj.com:8000/;
+#EXTINF:-1 tv-logo="",Sada Radio
+http://s2.voscast.com:11702/;
+#EXTINF:-1 tv-logo="",Bahrain Radio
+http://nebula.shoutca.st:8107/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/voice-ummah-154505-logo.jpg",Radio The Voice of Ummah
+http://s6.voscast.com:7634
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-voice-of-ummah-585510-logo.jpg",Radio The Voice of Ummah
+http://s6.voscast.com:7634/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/thejus-radio-tamil-603124-logo.jpg",Thejus Radio Tamil
+http://192.184.9.81:8001/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/matru-radio-633961-logo.jpg",Matru radio
+http://stream13.shoutcastsolutions.com:8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/quran-kareem-with-english-translation-643717-logo.jpg",Radio Quran Kareem with English Translation
+http://quraan.us:9990/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yasmin-radio-617112-logo.jpg",Yasmin Radio
+http://uk1.internet-radio.com:8130/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voice-164247-logo.jpg",Radio Voice
+http://radiovoice.primcast.com:7614/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alayam-fm-156693-logo.jpg",Radio Alayam FM
+http://br.alayam.com:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voice-1042-161819-logo.jpg",Radio Voice 104.2
+http://radiovoice.primcast.com:7614

@@ -1351,3 +1351,143 @@ https://rt.radioslovo.net:4135/stream
 https://rt.radioslovo.net:4395/radio
 #EXTINF:-1,Radio Monte Carlo Lounge 
 https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1769798199
+#EXTINF:-1,Baranovichi FM 100.0 - Belarus - Baranovichi
+https://radio.100fm.by:8000/100fm128
+#EXTINF:-1,Center FM 101.7 - Belarus - Minsk
+https://stream2.datacenter.by/stream
+#EXTINF:-1,Dushevnoe Radio - Belarus - Minsk
+https://stream2.datacenter.by/dushevnoe
+#EXTINF:-1,Dzed Bardaitis Radio - Belarus - Minsk
+https://26343.live.streamtheworld.com:443/SAM03AAC337_SC
+#EXTINF:-1,Gomel FM 101.3 - Belarus - Gomel
+https://stream2.datacenter.by/gomelfm
+#EXTINF:-1,Lider FM 94.3 - Belarus - Lida
+https://icecast.lider-fm.by/liderfm
+#EXTINF:-1,MetalHeads - Belarus - Minsk
+https://radio.metalheads.by:8000/source
+#EXTINF:-1,Monte Carlo Lounge - Belarus - Minsk
+https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1753954052
+#EXTINF:-1,Narodnoe Radio - Belarus - Minsk
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1,Novoe Radio FM 98.4 - Belarus - Minsk
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
+#EXTINF:-1,Prime Radio - Belarus - Minsk
+https://listen5.myradio24.com/praims
+#EXTINF:-1,Radio 123 - Belarus - Gomel
+https://de1.internet-radio.com/proxy/belradio123/stream
+#EXTINF:-1,Radio Belarus FM - Belarus - Minsk
+https://stream2.datacenter.by/belarusfm
+#EXTINF:-1,Radio Belarus Online - Belarus - Minsk
+https://stream2.datacenter.by/belarus
+#EXTINF:-1,Radio Brest FM 104.8 - Belarus - Brest
+https://stream2.datacenter.by/trkbrest
+#EXTINF:-1,Radio Grodno FM 101.2 - Belarus - Grodno
+https://stream.radiogrodno.by:8005/live
+#EXTINF:-1,Radio Hrodna MFM 105.0 - Belarus - Grodno
+https://radio.105fm.by/radio.105.0mfm
+#EXTINF:-1,Radio Maria - Belarus - Belarus - Minsk
+https://server.radiorm.by:8443/aac
+#EXTINF:-1,Radio Minsk - Belarus - Minsk
+https://radio.mk.by:8443/radiominsk
+#EXTINF:-1,Radio MIR Belarus - Belarus - Minsk
+https://stream2.datacenter.by/radiomir
+#EXTINF:-1,Radio Mogilev - Belarus - Mogilev
+https://stream2.datacenter.by/tvrmogilev
+#EXTINF:-1,Radio Plato - Belarus - Minsk
+https://azura.radioplato.by/radio/8000/radio.mp3
+#EXTINF:-1,Radio ROKS 102.1FM - Belarus - Minsk
+https://stream.roks.com:8443/live256
+#EXTINF:-1,Radio Stalica | Радыё Сталіца - Belarus - Minsk
+https://stream2.datacenter.by/stalica
+#EXTINF:-1,Radius FM - Belarus - Minsk
+https://stream2.datacenter.by/radiusfm_main
+#EXTINF:-1,Svoyo Radio 106.1 FM - Belarus - Pinsk
+https://live.svoyoradio.by:8443/svoyoradio
+#EXTINF:-1,Авторадио Беларусь - Belarus - Minsk
+https://live.humorfm.by:8443/avtoradio
+#EXTINF:-1,Канал Культура - Belarus - Minsk
+https://stream2.datacenter.by/kultura
+#EXTINF:-1,Компас FM - Belarus - Minsk
+https://radio.mil.by/live
+#EXTINF:-1,Радио Беларуси - 1 канал - Belarus - Minsk
+https://stream2.datacenter.by/1kanal
+#EXTINF:-1,РАдио Вечность - Belarus - Minsk
+https://a2.radioheart.ru:9040/RadioVechnost
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zbo-radio-608248-logo.jpg",ZbO-radio
+http://134.17.5.78/mpd.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradio-relax-168767-logo.jpg",Netradio RELAX
+http://stream.netradio.by:8000/relax/mp3/256
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/net-radio-garage-172174-logo.jpg",Net Radio Garage
+http://stream.netradio.by:8000/garage/mp3/128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/net-radio-ethno-172176-logo.jpg",NET Radio Ethno
+http://stream.netradio.by:8000/ethno/mp3/128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/net-radio-trance-172178-logo.jpg",NET Radio Trance
+http://81.25.32.48:8000/trance/mp3/96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tut-172227-logo.jpg",Radio Tut
+http://broadcast.tut.by:8000/32k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radius-fm-576259-logo.jpg",Radio Radius FM
+http://video.tvr.by:1935/radio/radiusfm/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-unistar-577068-logo.jpg",Radio UNISTAR
+https://stream.hoster.by/unistar/unistar-256/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-unistar-favorite-90s-616445-logo.jpg",Radio Unistar. Favorite 90's
+https://stream.hoster.by/unistar/unistar_90e-48heaac/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-relax-618879-logo.jpg",Radio Roks Relax
+http://streams.radioplayer.by:8000/relax_mc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-russian-rock-618875-logo.jpg",Radio Roks Russian Rock
+http://streams.radioplayer.by:8000/rusrock
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-russian-top-618877-logo.jpg",Radio Roks Russian Top
+http://streams.radioplayer.by:8000/rushot_mc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/prime-radio-631095-logo.jpg",Prime Radio
+http://46.105.180.202:8126/Bel256
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/teploe-radio-netop-fm-590201-logo.jpg",TEPLOE RADIO NETOP FM
+http://listen.teploe.net:8100/netop
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/upfm-187605-logo.jpg",Radio UPFM
+http://listen.teploe.net:8100/npkfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aplus-relax-162217-logo.jpg",Radio Aplus Relax
+http://shoutcast.aplus.by:9000/aplus_relax_48.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/unistar-radio-170867-logo.jpg",Unistar Radio
+http://213.184.232.36:8000/unistar-128kb
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alfa-radio-162956-logo.jpg",Radio Альфа радио
+http://86.57.151.4:8009/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aplus-587075-logo.jpg",Radio Aplus
+http://shoutcast.aplus.by:9000/aplus_24.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-minsk-184010-logo.jpg",Radio Радио Минск
+http://93.84.113.142:8000/radio2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/humor-fm-616457-logo.jpg",Radio Humor FM
+http://live.humorfm.by:8000/veseloe.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/synthpop-radio-syntheznet-187334-logo.jpg",Synthpop-Radio Synthez.Net
+http://air.synthez.net:8888/96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/net-radio-100-172175-logo.jpg",NET Radio 100%
+http://stream.netradio.by:8000/100/mp3/128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/net-radio-france-172177-logo.jpg",Net Radio France
+http://stream.netradio.by:8000/france/mp3/128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/simple-radio-159212-logo.jpg",Simple Radio
+http://simpleradio.by:8000/aacp32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/unistar-top-channel-616443-logo.jpg",Radio Unistar Top Channel
+https://stream.hoster.by/unistar/unistar_top-128/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ont-175296-logo.jpg",Radio Радио ОНТ
+http://shoutcast.byfly.by:8008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aplus-hip-hop-160116-logo.jpg",Radio Aplus Hip-Hop
+http://shoutcast.aplus.by:9000/aplus_hiphop_48.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alpha-178681-logo.jpg",Radio Alpha
+http://listen.alpha.by:8009/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aplus-russian-160384-logo.jpg",Radio Aplus Russian
+http://shoutcast.aplus.by:9000/aplus_russian_24.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradiohot-160744-logo.jpg",NETradioHOT
+http://stream.netradio.by:8000/hot/mp3/64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradioadult-160745-logo.jpg",NETradioADULT
+http://stream.netradio.by:8000/adult/aac/24
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradiotrance-160746-logo.jpg",NETradioTRANCE
+http://stream.netradio.by:8000/trance/aac/24
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradiorelax-160747-logo.jpg",NETradioRELAX
+http://stream.netradio.by:8000/relax/mp3/64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradioclub-160748-logo.jpg",NETradioCLUB
+http://stream.netradio.by:8000/club/aac/24
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradiolive-160754-logo.jpg",NETradioLIVE
+http://stream.netradio.by:8000/live/mp3/128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ba-185223-logo.jpg",Radio BA
+http://radio.solo.by:8000/radioba
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sar-by-585454-logo.jpg",RADIO SAR BY
+http://radio.sar.by:8000/mp3/64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradio-relax-186248-logo.jpg",Netradio RELAX
+http://stream.netradio.by:8000/relax/mp3/192

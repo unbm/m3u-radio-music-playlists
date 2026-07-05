@@ -237,3 +237,23 @@ http://stream.zeno.fm/eequgfw72hhvv
 http://57.129.49.167:8082/stream
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Bonesha FM - Burundi - Bujumbura
+https://a9.asurahosting.com:8950/radio.mp3
+#EXTINF:-1,Irebe FM 91.4 - Burundi - Bujumbura
+https://stream.zeno.fm/5wjpe2wxzdeuv
+#EXTINF:-1,Radio CDN la voie de Cibitoke - Burundi - Cibitoke
+https://s48.myradiostream.com/:11844/listen.mp3
+#EXTINF:-1,Radio Isanganiro - Burundi - Bujumbura
+https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3?_=1
+#EXTINF:-1,Radio Voix d'Espoir FM 94.3 - Burundi - Bujumbura
+https://stream4.rcast.net/65372
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bi-radio-maria-logo.jpg",Radio Maria
+http://dreamsiteradiocp2.com:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bi-radio-umuco-fm-logo.jpg",Radio Umuco FM
+http://s2.free-shoutcast.com:18208/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bi-remesha-amahoro-fm-logo.jpg",Radio Remesha Amahoro FM
+http://s2.free-shoutcast.com:18252/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bi-favor-radio-burundi-logo.jpg",Favor Radio (Burundi)
+https://a10.asurahosting.com:7660/burundi.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfi-afrique-576125-logo.jpg",Radio RFI Afrique
+http://live02.rfi.fr/rfiafrique-32.mp3

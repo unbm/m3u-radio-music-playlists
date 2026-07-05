@@ -697,3 +697,67 @@ https://daystream.palmerablanca.com/daystream-128.mp3
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Space Beat (128k) 
 https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3
+#EXTINF:-1,Astana FM - Kazakhstan - Astana
+https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
+#EXTINF:-1,Bulbul FM - Kazakhstan - Almaty
+https://radiobulbul.stream.laut.fm/radiobulbul?t302=2025-01-07_08-10-02&uuid=cfbac02c-0511-4d1e-801f-a1002f48c170
+#EXTINF:-1,Classic FM - Kazakhstan - Almaty
+https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
+#EXTINF:-1,Europa Plus Qazaqstan - Kazakhstan - Almaty
+https://emgregion.hostingradio.ru:8064/kazakhstan.europaplus.mp3
+#EXTINF:-1,Love Radio FM - Kazakhstan - Almaty
+https://stream.gakku.kz:8443/love128.mp3
+#EXTINF:-1,LuxFM 87.7 - Kazakhstan - Almaty
+https://icecast.luxfm.kz/luxfm
+#EXTINF:-1,Orda FM 103.2 - Kazakhstan - Astana
+https://ordacast.astanatv.kz:8443/orda
+#EXTINF:-1,Qazaq Radiosy - Kazakhstan - Astana
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1,Radio Ice - Kazakhstan - Ust'-Kamenogorsk
+https://onair.radio1922.ru/64.aac
+#EXTINF:-1,Shalkar - Kazakh Шалқар - Kazakhstan - Astana
+https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+#EXTINF:-1,Новое Радио (Жаңа FM) - Kazakhstan - Karagandy
+https://live.zhanafm.kz:8443/zhanafm_onair
+#EXTINF:-1,РетроFM Казахстан - Kazakhstan - Almaty
+https://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1,Русское Радио 104.7 FM - Kazakhstan - Almaty
+https://rusradio.cdnqb.net/stream
+#EXTINF:-1,Юмор FM Казахстан - Kazakhstan - Temirtau
+https://live.zhanafm.kz:8443/veseloeradio_onair
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-russkij-hit-logo.jpg",Radio Радио NS - Русский хит
+http://89.219.35.26:8000/radions-russian
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-kazakh-music-logo.jpg",Radio Радио NS - Kazakh Music
+http://89.219.35.26:8000/radions-kz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aza-radiosy-kazahskoe-radio-187599-logo.jpg",Radio Қазақ Радиосы (Казахское Радио)
+http://88.204.162.138:8000/kazradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/damusic-radio-chillout-187610-logo.jpg",DaMusic Radio Chillout
+http://damusic.info:8003/chillout
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alau-601198-logo.jpg",Radio Alau
+http://109.248.236.142:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nefm-dance-604626-logo.jpg",Radio NE.FM Dance
+http://ps.ne.fm/NE.FM_AAC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nefm-urban-604868-logo.jpg",Radio NE.FM Urban
+http://ps.ne.fm/URBAN
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/palmera-blanca-lounge-634450-logo.jpg",Radio Palmera Blanca - Lounge
+https://lounge.palmerablanca.com/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-palmera-blanca-idm-logo.jpg",Radio Palmera Blanca - IDM
+https://idm.palmerablanca.com/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-palmera-blanca-tango-logo.jpg",Radio Palmera Blanca - Tango
+https://tango.palmerablanca.com/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-tehnosbornikradio-logo.jpg",ТЕХНОСБОРНИКRADIO
+http://freeuk28.listen2myradio.com:4478/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-zhanga-christmas-logo.jpg",Radio Жаңа Christmas
+https://live.zhanafm.kz:8443/zhanachristmas
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/legion-radio-169183-logo.jpg",LEGION Radio
+http://legionkz.org:8000/stream32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/damusic-radio-183346-logo.jpg",DaMusic Radio
+http://damusic.kz:2009/damusic
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tex-183277-logo.jpg",Radio Tex
+http://85.29.137.42:8000/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tmk-tatar-radio-182920-logo.jpg",TMK (Tatar radio)
+http://stream7.radiostyle.ru:8007/radio-tmk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ns-177507-logo.jpg",Radio NS
+http://fm.kiwi.kz/radions
+#EXTINF:-1 tv-logo="",Radio Kazak R
+http://kaztrk.kz/online_radio/kazradio/

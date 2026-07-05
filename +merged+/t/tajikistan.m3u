@@ -135,3 +135,27 @@ https://stream.zeno.fm/m31ce6xvcfhvv
 https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,DFM 105.5 - Tajikistan - Asht
+https://c16.radioboss.fm:18234/stream
+#EXTINF:-1,FM Ховар - Tajikistan - Dushanbe
+https://radio.khovar.tj/live
+#EXTINF:-1,Payvand FM - Tajikistan - Khujand
+https://c6.radioboss.fm/stream/234
+#EXTINF:-1,Radio PLUS-Asia 107 FM - Tajikistan - Dushanbe
+https://eu.asiaplusradio.tj:8443/ap
+#EXTINF:-1 tv-logo="",Radio TR2 Sadoi Dushanbe
+http://mediabay.tv/channels/radioStations/120-SadoiDushanbeTJ
+#EXTINF:-1 tv-logo="",Radio TR3 R Farhang
+http://mediabay.tv/channels/radioStations/124-RadioiFarhangTJ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/diyorfm-627677-logo.jpg",Radio DiyorFM
+http://s2.radioboss.fm:8066/;
+#EXTINF:-1 tv-logo="",Radio TR1 R Tojikiston
+http://mediabay.tv/channels/radioStations/122-RadioiTojikTJ
+#EXTINF:-1 tv-logo="",Radio Ovozi Tojik
+http://mediabay.tv/channels/radioStations/118-OvoziTojikTJ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tj-dunyo-fm-logo.jpg",Radio Dunyo FM
+http://162.210.196.142:8950/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/love-radio-tajikistan-646549-logo.jpg",Love Radio Tajikistan
+http://eu4.radioboss.fm:8098/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-star-167181-logo.jpg",Radio Star
+http://199.15.251.190:8010/listen.pls

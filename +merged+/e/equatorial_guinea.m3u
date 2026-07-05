@@ -83,3 +83,5 @@ https://tinyurl.com/AntennaWebMalabo
 http://s2.voscast.com:8098/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79587/logo_lkEb8xWaOs.png",Hero Radio (Equatorial Guinea)
 https://a2.asurahosting.com:6790/malabo.mp3
+#EXTINF:-1 tv-logo="",Radio TVGE International
+http://www.rtvgeint.tv/

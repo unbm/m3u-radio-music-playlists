@@ -343,3 +343,33 @@ http://centova87.instainternet.com:8070/stream
 https://video1.getstreamhosting.com:2000/stream/8216
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97725/logo_wFiQxLa92M.png",KSJX Radio
 http://162.244.80.20:9464/stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91793/logo_GJfpZw722H.jpg?v=20260529-media-restore",TNT Radio
+https://cast4.servcast.net/proxy/longpham2/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100735/logo_Eatucaoiw7.jpg?v=20260529-media-restore",Radio Saigon Houston KREH 900 AM
+http://centova87.instainternet.com:8070/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97725/logo_nQzYzhcMOk.jpg?v=20260529-media-restore",KSJX
+http://162.244.80.20:9464/;stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92134/logo_lVXwExGoML.jpg?v=20260529-media-restore",KCHN 1050 AM
+https://video1.getstreamhosting.com:2000/stream/8216
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97369/logo_C3UrguYYgE.jpg?v=20260529-media-restore",KVVN 1430 AM
+https://us2.maindigitalstream.com/ssl/KVVN
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saigon-hd-radio-185332-logo.jpg",Saigon HD Radio
+http://170.75.194.209:8888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-3-logo.jpg",Radio VOV 3
+https://stream.vov.vn/cde884a8f0af9e055bc86eaecb9741721688296838/vov3-audio/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-voh-610-am-logo.jpg",Radio VOH 610 AM
+https://strm.voh.com.vn/radio/channel2/chunklist_w290535666.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-giao-thong-ha-noi-logo.jpg",Radio VOV Giao Thông Hà Nội
+https://stream.vov.vn/d635b3695a4795db2be7c99d7263b2831688297874/giao_thong_ha_noi-audio/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-5-logo.jpg",Radio VOV 5
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nationwide-viet-radio-584942-logo.jpg",Nationwide Viet Radio
+http://vndcradio2.serverroom.us:4480/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-ksjx-logo.jpg",Radio KSJX
+http://38.96.175.24:9464/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bbc-radio-cymru-2-648177-logo.jpg",BBC Radio Cymru 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_cymru_2.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-6-logo.jpg",Radio VOV 6
+https://stream.vov.vn/2d424a5f73c34f6700f93e2b0858c8281688297471/vov1-audio/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-cai-luong-viet-nam-logo.jpg",Radio Cai Luong Viet Nam
+https://stream.zeno.fm/0trm6wrnga0uv

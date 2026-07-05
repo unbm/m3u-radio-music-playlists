@@ -103,3 +103,11 @@ https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301
 https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1734100041
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bounane-america-629499-logo.jpg",Radio Bounane America
+http://sv2.vestaradio.com:3540/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-djiido-171552-logo.jpg",Radio Djiido
+http://radiodjiido.nc:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfo-nouvelle-caledonie-177033-logo.jpg",Radio RFO Nouvelle Caledonie
+http://mp3.live.tv-radio.com/rfo/all/rfo_nouvellecaledonie-128k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nouvelle-caledonie-la-1ere-571658-logo.jpg",Radio Nouvelle Calédonie La 1ère
+http://radios.la1ere.fr/nouvellecaledonie

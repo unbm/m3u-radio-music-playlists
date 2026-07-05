@@ -75,3 +75,7 @@ https://strhls.streamakaci.tv/str tchad radio/str tchad radio/icecast.audio?fbcl
 https://tinyurl.com/AntennaWebCiad
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79022/logo_WaVZSdHm6T.png",Hero Radio (Chad)
 https://a2.asurahosting.com:6790/chad.mp3
+#EXTINF:-1,Radio Ndarason Int FM 107.1 - Chad - N'Djamena
+https://c26.radioboss.fm:8679/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/td-favor-radio-chad-logo.jpg",Favor Radio (Chad)
+https://a10.asurahosting.com:7660/chad.mp3

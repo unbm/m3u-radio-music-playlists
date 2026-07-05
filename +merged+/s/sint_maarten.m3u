@@ -33,3 +33,7 @@ https://live2.tensila.com/ch3-a-1.philbro/hls/master.m3u8
 https://live2.tensila.com/ch1-a-1.philbro/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/87837/logo_raxzZ8GJGi.png",Radio Oasis FM
 https://live2.tensila.com/ch2-a-1.philbro/hls/master.m3u8
+#EXTINF:-1,HOT 24/7 Sint Maarten - Sint Maarten - Philipsburg
+https://s9.reliastream.com/proxy/hot247sxm?mp=/stream
+#EXTINF:-1,Z1051 FM 105.1 - Sint Maarten - Simpson Bay
+https://cosmo.shoutca.st/proxy/zron/STREAM

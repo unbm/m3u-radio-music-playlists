@@ -281,3 +281,9 @@ https://anadolu.liderhost.com.tr/9404/.mp3
 https://c2.radioboss.fm:8564/stream
 #EXTINF:-1,Parzink
 https://a1.asurahosting.com/listen/parzink/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-kurd-fm-logo.jpg",Radio Kurd FM
+https://radio.alanmedia.de:4747/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-derkimihd-logo.jpg",Radio DerKimiHD
+https://stream.laut.fm/derkimihd
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-voice-of-america-voa-radiyoyacu-logo.jpg",Radio Voice of America - VOA Radiyoyacu
+https://stream.radiojar.com/hzcgfqas92quv

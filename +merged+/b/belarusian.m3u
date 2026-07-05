@@ -203,3 +203,5 @@ https://radio2.pro-fhi.net:19073/stream?=&&___cb=490522685360180
 https://stream2.datacenter.by/gomelskayapravda?type=.mp3
 #EXTINF:-1,Avtoradio Minsk
 https://live.humorfm.by:8443/avtoradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-radio-racja-belarus-logo.jpg",Radio Racja Belarus
+https://air.racyja.com/racja128

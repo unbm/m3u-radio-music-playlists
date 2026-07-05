@@ -77,3 +77,5 @@ https://kathy.torontocast.com:3350/;?shoutcast
 https://stream-149.zeno.fm/p83d0vdp54zuv?zs=Y064VLqyRz25p_qpA4nLbw
 #EXTINF:-1,Anime Para Ti
 https://stream-043.zeno.fm/qpn8mkt8c4duv?zs=2Kmk-Z7fQ5-j4SUPFq8YfQ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm845-579974-logo.jpg",Radio FM845
+http://musicbird-hls.leanstream.co/musicbird/JCB104.stream/playlist.m3u8?args=tunein_01

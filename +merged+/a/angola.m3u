@@ -1897,3 +1897,115 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 http://strm112.1.fm/acountry_mobile_mp3
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Afrirádio 106.1 FM - Angola - Luanda
+https://cast4.asurahosting.com/proxy/afriradi/stream
+#EXTINF:-1,Ebnézer Rádio - Angola - Luanda
+https://08.stmip.net:10028//listen
+#EXTINF:-1,Kaji FM - Angola - Belas
+https://servidor13.brlogic.com:7010/live
+#EXTINF:-1,MFM Radio 91.7 - Angola - Luanda
+https://centova87.instainternet.com/proxy/mfm?mp=/stream
+#EXTINF:-1,Rádio 5 - Angola - Luanda
+https://paineldj5.com.br:20088/stream
+#EXTINF:-1,Rádio D'Agosto 92.0 - Angola - Luanda
+https://live.paineldj.com.br/proxy/radio1ago?mp=/stream
+#EXTINF:-1,Radio Ecclesia FM 97.5 - Angola - Luanda
+https://mediaserv33.live-streams.nl:8089/stream
+#EXTINF:-1,Radio Ecclesia Ndalatando 89.3 FM - Angola - N'dalatando
+https://stream.zeno.fm/xmca31uwqnhvv
+#EXTINF:-1,Rádio Kuia Bue - Angola - Luanda
+https://a6.asurahosting.com:6820/radio.mp3
+#EXTINF:-1,Rádio Luanda FM 99.9 - Angola - Luanda
+https://paineldj5.com.br:20089/stream
+#EXTINF:-1,Radio Lunda Norte - Angola - Dundo
+https://stream.zeno.fm/detd58rrta0uv
+#EXTINF:-1,Radio Mais Benguela 96.3 FM Stéreo - Angola - Benguela
+https://radios.justweb.pt/8046/stream/
+#EXTINF:-1,Radio Mais Cabinda 92.3 e 92.7 FM Stéreo - Angola - Cabinda
+https://radios.justweb.pt/8062/stream/
+#EXTINF:-1,Radio Mais Huambo FM 89.9 - Angola - Huambo
+https://radios.justweb.pt/8044/stream/
+#EXTINF:-1,Radio Mais Luanda 99.1 FM Stéreo - Angola - Luanda
+https://radios.justweb.pt/8050/stream/
+#EXTINF:-1,Rádio Maranata 91.9 FM - Angola - Lubango
+https://audio8.cmaudioevideo.com/proxy/radiomar/stream
+#EXTINF:-1,Radio Maria - Angola - Luanda
+https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream.mp3
+#EXTINF:-1,Radio N'Gola Yetu FM 101.4 - Angola - Luanda
+https://live.paineldj.com.br/proxy/yetu?mp=/stream
+#EXTINF:-1,Radio Soyo 92.3 FM - Angola - Soyo
+https://stream.zeno.fm/xvaaz9cpva0uv
+#EXTINF:-1,Radio Uige FM 94.4 - Angola - Uige
+https://paineldj6.com.br:20119/stream
+#EXTINF:-1,RNA Canal A - Angola - Luanda
+https://paineldj5.com.br:20087/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-famastar-182661-logo.jpg",Radio FamaStar
+http://sirius.shoutca.st:8527/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-nacional-de-angola-logo.jpg",Radio Nacional de Angola
+http://radionacional.rna.ao:88/broadwave.mp3?src=2u0026rate=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-muzangala-591490-logo.jpg",Radio Muzangala
+http://108.59.11.81:10053/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-rna-radio-estereo-logo.jpg",Radio RNA - Rádio Estéreo
+http://radionacional.rna.ao:88/broadwave.mp3?src=4u0026rate=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-5-568024-logo.jpg",Radio 5
+http://www.rna.ao/radio-cinco-2/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ngola-yetu-rna-568028-logo.jpg",Radio N'Gola Yetu RNA
+http://www.rna.ao/radio-n-gola-yetu/
+#EXTINF:-1 tv-logo="",Radio RNA R Kwanza Sul
+http://www.rna.ao/kwanzasul/
+#EXTINF:-1 tv-logo="",Radio RNA R Benguela
+http://www.rna.ao/benguela/
+#EXTINF:-1 tv-logo="",Radio RNA R Huambo
+http://www.rna.ao/huambo/
+#EXTINF:-1 tv-logo="",Radio RNA R Soyo
+http://www.rna.ao/soyo/
+#EXTINF:-1 tv-logo="",Radio RNA R Malange
+http://www.rna.ao/malange/
+#EXTINF:-1 tv-logo="",Radio RNA R Bie
+http://www.rna.ao/bie/
+#EXTINF:-1 tv-logo="",Radio RNA R Lunda Norte
+http://www.rna.ao/lundanorte/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gospel-angola-607326-logo.jpg",Radio Gospel Angola
+http://109.169.23.243:30288/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jet7-angola-611162-logo.jpg",Radio Rádio Jet7 Angola
+http://37.59.28.208:8616/;
+#EXTINF:-1 tv-logo="",Radio RNA R Cabinda
+http://www.rna.ao/cabinda/
+#EXTINF:-1 tv-logo="",Radio RNA R Cunene
+http://www.rna.ao/cunene/
+#EXTINF:-1 tv-logo="",Radio RNA R Huila
+http://www.rna.ao/huila/
+#EXTINF:-1 tv-logo="",Radio RNA R Uige
+http://www.rna.ao/uige/
+#EXTINF:-1 tv-logo="",Radio RNA R Namibe
+http://www.rna.ao/namibe/
+#EXTINF:-1 tv-logo="",Radio RNA R Moxico
+http://www.rna.ao/moxico/
+#EXTINF:-1 tv-logo="",Radio RNA R Kwanza Norte
+http://www.rna.ao/k-norte/
+#EXTINF:-1 tv-logo="",Radio RNA R Viana
+http://www.rna.ao/viana/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dj-lex-620332-logo.jpg",Radio DJ LEX
+http://stm15.srvstm.com:13212/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fonte-de-vida-627421-logo.jpg",Radio Fonte de Vida
+http://stm6.srvstm.com:14196/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/webradionovavida-648503-logo.jpg",WebRadioNovaVida
+http://whmsonic11.ipstm.net:9306/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kuia-bue-629437-logo.jpg",Radio Kuia Bue
+https://a6.asurahosting.com:6820/radio.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-f8-logo.jpg",Radio F8
+http://193.164.131.215:9302/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-efata-angola-logo.jpg",Radio Rádio Efata Angola
+http://srv10.ipstm.net:28864/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-luanda-live-logo.jpg",Radio Luanda live
+https://sonicpanel.oficialserver.com:7166/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-favor-radio-angola-logo.jpg",Favor Radio (Angola)
+https://a10.asurahosting.com:7660/angola.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lac-fm-568026-logo.jpg",Radio L.A.C FM
+http://stream.zenolive.com/cg3yk1gr7a5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viciana-172605-logo.jpg",Radio Viciana
+http://radioviciana.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfs-station-641531-logo.jpg",Radio RFS Station
+http://sirius.shoutca.st:8527/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-meu-refugio-161394-logo.jpg",Radio Rádio Meu Refúgio
+http://50.97.213.47:6002/;

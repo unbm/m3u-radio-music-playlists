@@ -165,3 +165,15 @@ https://streaming.enacast.com/radiolaseu128.mp3
 https://ice.fabricahost.com.br/alphafm1021
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,BFBS Gibraltar - Gibraltar - Gibraltar
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.mp3?platform=radiogarden
+#EXTINF:-1,GBC Radio Gibraltar - Gibraltar - Gibraltar
+https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream
+#EXTINF:-1,GBC Radio Gibraltar Plus AM - Gibraltar - Gibraltar
+https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream
+#EXTINF:-1,GBC Radio Gibraltar Plus FM - Gibraltar - Gibraltar
+https://s2.myradiostream.com/:32910/listen.mp3?nocache=1736236976
+#EXTINF:-1,Go Go Radio Gibraltar - Gibraltar - Gibraltar
+https://stream2.rcast.net/70760
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gibraltargoldradio-593862-logo.jpg",Gibraltargoldradio
+http://173.249.21.17:8138/stream

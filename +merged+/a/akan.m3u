@@ -2175,3 +2175,29 @@ https://us3.streamingpulse.com/ssl/7038
 http://radio9.klikstream.net:9170/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129088.v2.png",Zulia Mia 91.3 FM 
 https://stream.zeno.fm/vh6s1ptatjevv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-74-internationale-logo.jpg",Radio 74 Internationale
+http://radio74.dyndns.org:8000/radio74stlint.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-melody-88-logo.jpg",Radio Melody 88
+http://s4.onweb.gr:8466/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/j-radio-183554-logo.jpg",J Radio
+http://radio9.klikstream.net:9170/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tn-radio-zitouna-fm-logo.jpg",Radio Zitouna FM
+https://stream.radiozitouna.tn/radio/8030/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-emp-radio-logo.jpg",EMP Radio
+http://emp.cx:8192/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-big-city-dance-logo.jpg",Radio Big City Dance
+http://188.165.222.198:8171/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-ar-ljubljana-stream-logo.jpg",Hitradio Center ar ljubljana stream
+http://stream3.radiocenter.si:8208/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-xmas-logo.jpg",Hitradio Center xmas
+http://stream3.radiocenter.si:8062/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-radio-1506-logo.jpg",Radio 1506
+https://cast1.torontocast.com:3045/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-indie-rock-radio-0-logo.jpg",Indie Rock radio
+https://s44.myradiostream.com/4012/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/id-endless-for-beacon-fm-0-logo.jpg",Radio Endless For Beacon FM
+https://stream.zeno.fm/x1wrh2y4jj6uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-g-medios-radio-logo.jpg",G medios Radio
+https://stream.radiolive.com.co:8120/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-radio-la-fantasia-del-austro-logo.jpg",Radio La Fantasia Del Austro
+https://stream.zeno.fm/rqvouukkyirtv

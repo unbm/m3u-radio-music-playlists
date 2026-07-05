@@ -1211,3 +1211,109 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,WILD HEART FM 97.1 
 https://62.138.18.102:8133/stream
+#EXTINF:-1,Alif Alif FM - Saudi Arabia - Jeddah
+https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
+#EXTINF:-1,Miraath Al Anbiyya - Saudi Arabia - Riyadh
+https://radio.al7eah.net/8010/stream
+#EXTINF:-1,Mix FM 105.5 - Saudi Arabia - Jeddah
+https://s1.voscast.com:11377/live.mp3
+#EXTINF:-1,Radio Asharq with Bloomberg - Saudi Arabia - Riyadh
+https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio
+#EXTINF:-1,Radio UFM 90.0 - Saudi Arabia - Riyadh
+https://stream.ufmradio.com:8003/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sa-favradio-logo.jpg",Favradio
+http://stream.hornhost.com:8109/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miraaths-quraan-and-tafseer-radio-24-7-593037-logo.jpg",Miraath's Quraan & Tafseer Radio 24/7
+http://miraath.net:7075/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tafsir-radio-593504-logo.jpg",Tafsir Radio
+http://fire.wavestreamer.com:1556/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rvfm-975-612580-logo.jpg",Radio RVFM 97.5
+http://185.2.102.108:8018/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-beat-station-622830-logo.jpg",Radio The Beat Station
+http://live.beat-station.com:8018/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mp3-quran-abdullah-aljohany-radio-623086-logo.jpg",MP3 Quran - Abdullah AlJohany Radio
+http://184.173.185.71:9944/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aywa-fm-627937-logo.jpg",Radio AYWA FM
+http://142.4.217.133:8835/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pinkfminternet-radio-627074-logo.jpg",PinkFMinternet Radio
+http://s1.voscast.com:8794/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kachatmatefm-631128-logo.jpg",Radio kachatmatefm
+http://s1.voscast.com:9780/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/channel-uraan-alukah-602129-logo.jpg",Radio Channel uraan alukah
+http://Quran.alradio.net:9994/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/salafi-voice-3-602627-logo.jpg",Radio Salafi Voice 3
+http://radio2.evanza.com:8133/;
+#EXTINF:-1 tv-logo="",Radio TV Quran
+http://www.tvquran.com/Alsudaes.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iqraa-tv-580309-logo.jpg",Radio Iqraa TV
+http://en.iqraa.com/en/livestream.aspx
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-fm-1018-605954-logo.jpg",Radio STAR FM 101.8
+http://s10.voscast.com:7136/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/905-heart-fm-620596-logo.jpg",Radio 90.5 Heart FM
+http://s6.voscast.com:9976/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mp3-quran-alfateh-alzubair-rewayat-aldori-an-abi-amr-radio-623083-logo.jpg",MP3 Quran - Alfateh Alzubair Rewayat Aldori An Abi Amr Radio
+http://184.173.185.71:9910/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mp3-quran-jamal-shaker-abdullah-radio-623085-logo.jpg",MP3 Quran - Jamal Shaker Abdullah Radio
+http://184.173.185.71:9900/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mp3-quran-ahmad-khader-altarabulsi-rewayat-qalon-an-nafi-radio-623084-logo.jpg",MP3 Quran -Ahmad Khader AlTarabulsi Rewayat Qalon An Nafi Radio
+http://184.173.185.71:9924/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mp3-quran-muftah-alsaltany-rewayat-aldori-an-abi-am-radio-623088-logo.jpg",MP3 Quran - Muftah Alsaltany Rewayat Aldori An Abi Am Radio
+http://184.173.185.71:9790/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/abdulbaset-abdulsamad-with-ibrahim-walk-saheeh-intl-translatione-623089-logo.jpg",Radio Abdulbaset Abdulsamad with Ibrahim Walk Saheeh Intl TranslationE
+http://184.173.185.71:9746/;
+#EXTINF:-1 tv-logo="",Radio Sound Of Love
+http://s35.myradiostream.com:32238/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/studio-1-saudi-aramco-630196-logo.jpg",Radio Studio 1 Saudi Aramco
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=STUDIO1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saudi-quran-631402-logo.jpg",Radio Saudi Quran
+http://51.255.131.14:9996/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/holy-quran-radio-633144-logo.jpg",Holy Quran Radio
+http://cmt-live.hls.adaptive.level3.net/cmt/radiochannel01/01.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ofw-fm-online-radio-1018-mhz-637860-logo.jpg",OFW FM ONLINE RADIO 101.8 MHZ
+http://185.2.102.108:8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/legacy-radio-station-643217-logo.jpg",LEGACY RADIO STATION
+http://69.175.94.98:8078/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1011-my-life-radio-646581-logo.jpg",101.1 My Life Radio
+http://213.136.67.74:8144/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/srfm-2018-647131-logo.jpg",Radio SRFM 2018
+http://s7.voscast.com:8716/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sa-verse-247-holy-quran-logo.jpg",Radio Verse 24/7 Holy Quran
+https://f9a1620f.ngrok.io/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/studio-2-saudi-aramco-630301-logo.jpg",Radio Studio 2 Saudi Aramco
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=STUDIO2
+#EXTINF:-1 tv-logo="",HOLY QURAN RADIO - القرآن الكريم
+http://www.islam2day.tv:3000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/por-gensan-592730-logo.jpg",Radio POR-GENSAN
+http://198.50.156.92:9006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rotana-fm-ksa-163756-logo.jpg",Radio Rotana FM KSA
+http://philae.shoutca.st:8114/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mp3-quran-radio-588951-logo.jpg",MP3 Quran Radio
+http://184.173.185.71:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/quran-live-fm-601181-logo.jpg",Radio Quran Live FM
+http://radio.yaservers.com:9966/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ufm-ksa-184491-logo.jpg",Radio UFM KSA
+http://104.200.150.186:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-ksa-156274-logo.jpg",Radio Star KSA
+http://37.59.28.208:8563/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bynt-158947-logo.jpg",Radio بينات
+http://78.46.103.87:9998
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/call-sunnah-and-intimacy-164438-logo.jpg",Radio Call of the Sunnah and intimacy
+http://78.47.210.185:8268
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alssunnahnetcom-164668-logo.jpg",Radio alssunnahnet.com
+http://174.36.191.58:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alsham-today-165274-logo.jpg",Radio Alsham Today
+http://85.17.174.160:8000/;
+#EXTINF:-1 tv-logo="",Radio 0.Hayafm.com Quraan
+http://live2.hayafm.com:8005/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/call-holy-quran-169179-logo.jpg",Radio Call of the Holy Quran
+http://78.47.210.185:8240
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/malayalam-quran-radio-161476-logo.jpg",Malayalam Quran Radio
+http://s9.myradiostream.com:11030
+#EXTINF:-1 tv-logo="",Radio SBC Saudi Intl R
+http://international.sr.sa/en/live-streaming
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wrbc-smile-radio-177640-logo.jpg",WRBC Smile Radio
+http://75.75.226.92:9004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yasser-al-dosari-radio-588952-logo.jpg",Yasser Al-Dosari Radio
+http://184.173.185.71:9984/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-fm-sa-155613-logo.jpg",Radio Mix FM - SA
+http://uk.mixfm-sa.com:8000/
