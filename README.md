@@ -807,7 +807,7 @@ here is a list of websites i've scraped from already and included m3u streams fo
 <tr>
 <td><a href="https://tingfm.com/">https://tingfm.com/</a></td>
 <td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/listen_fm">/listen_fm</a></td>
-<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/listen_fm.sh">lixty.sh</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/listen_fm.sh">listen_fm.sh</a></td>
 </tr>
 </tbody></table>
 
