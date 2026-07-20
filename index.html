@@ -293,7 +293,7 @@
         .preview-audio-container { width: 100%; max-width: 500px; padding: 1.25rem 1rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 0.6rem; position: relative; }
         .audio-icon { width: 80px; height: 80px; background: var(--bg-tertiary); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--accent); }
         .audio-icon svg { width: 40px; height: 40px; }
-        .playlist-now-playing { font-weight: 500; text-align: center; width: 100%; max-height: 4.2em; line-height: 1.4em; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; word-break: break-word; }
+        .playlist-now-playing { font-weight: 500; text-align: center; width: 100%; max-width: 100%; box-sizing: border-box; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
         .preview-audio { width: 100%; height: 40px; display: none; }
         .preview-audio[controls] { display: block; }
         .player-bar { display: flex; flex-direction: column; align-items: center; gap: 0.4rem; width: 100%; max-width: 480px; margin: 0.15rem auto 0; background: var(--bg-tertiary); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 0.6rem 0.75rem; }
@@ -360,7 +360,6 @@
         :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
         .search-input:focus-visible { outline-offset: 0; }
         .file-card:focus-visible { outline-offset: -2px; }
-        .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
         .breadcrumb { overflow-x: auto; scrollbar-width: thin; flex-wrap: nowrap; }
         .breadcrumb::-webkit-scrollbar { height: 4px; }
         .sort-select { background: var(--bg-tertiary); border: 1px solid var(--border-color); border-radius: 4px; color: var(--text-secondary); font-size: 0.75rem; padding: 0.25rem 0.375rem; }
@@ -1484,10 +1483,6 @@
             const idx = name.lastIndexOf(".");
             return idx <= 0 ? "" : name.slice(idx + 1);
         }
-        function getBaseName(name) {
-            const idx = name.lastIndexOf(".");
-            return idx <= 0 ? name : name.slice(0, idx);
-        }
         // Looks for a modified-time field under a few common names, since this
         // depends on whatever the file_index.json generator provides. Accepts
         // a unix timestamp (seconds or ms) or a date string. Returns null if no
@@ -2164,6 +2159,8 @@
             const item = currentPlaylist[currentPlaylistIndex];
             const s = item.title;
             document.getElementById("modalTitle").textContent = s;
+            // New track: drop any in-flight metadata listener and clear
+            // last track's live rows so nothing stale lingers in the panel.
 
             const n = document.getElementById("modalBody");
             // Show a buffering hint right away instead of a silent wait while the
@@ -2457,7 +2454,7 @@
         function closeModal() {
             const e = document.getElementById("modal");
             e.classList.remove("active");
-            
+
             if (currentHls) {
                 currentHls.destroy();
                 currentHls = null;
